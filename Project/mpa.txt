@@ -1,0 +1,15 @@
+***Province: KPK **********
+
+**Seat No: 1 *****
+
+Party: PTI
+Sign: BAT
+Name: IMRAN
+Father's Name: KHAN
+Cnic: 43423
+Age: 25
+Phone No: 4324
+Address: LAHORE
+Votes: 1
+
+

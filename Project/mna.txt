@@ -1,0 +1,50 @@
+
+**Seat No: 1 *****
+
+Party: PTI
+Sign: BAT
+Name: IMRAN
+Father's Name: KHAN
+Cnic: 4342
+Age: 25
+Phone No: 53454
+Address: LAHORE
+Votes: 1
+
+
+
+**Seat No: 194 *****
+
+Party: PTI
+Sign: BAT
+Name: HUZEFA
+Father's Name: SADSD
+Cnic: 4123123123
+Age: 29
+Phone No: 031203012
+Address: MUHAM@GMAIL.COM
+Votes: 0
+
+**Seat No: 129 *****
+
+Party: KUSS
+Sign: GHIN
+Name: YASEEN
+Father's Name: HUZEFA
+Cnic: 1730122233445
+Age: 26
+Phone No: 03131445454
+Address: YAS@GMAIL.COM
+Votes: 0
+
+Party: PTA
+Sign: BAT
+Name: HUZEFA
+Father's Name: ARIF
+Cnic: 1730188759253
+Age: 25
+Phone No: 03335551221
+Address: MUHA@GMAIL.COM
+Votes: 0
+
+

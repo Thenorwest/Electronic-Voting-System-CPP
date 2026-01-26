@@ -1,0 +1,11 @@
+
+
+CNIC: 343
+***MNA Seat: 1
+MNA Vote: BAT
+Province: KPK***MPA Seat: 1
+MPA Vote: BAT
+Name: KPK
+Father's Name: NOR
+Age: 18
+Phone: 123
